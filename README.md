@@ -27,7 +27,7 @@ Examples are organized by chapters so you can follow along.
 
 ## Chapter 7
 
-* [Core Data Example app](http://github.com/mattetti/MacRuby--The-Definitive-Guide/raw/master/chapter_7/CoreDataExample.zip) Source code for the Core Data demo app.
+* [Core Data Example app](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/raw/master/chapter_7/CoreDataExample.zip) Source code for the Core Data demo app.
 
 ![Screenshot of the MacRuby Core Data demo app in Chapter 7](https://img.skitch.com/20110110-c6q3dxf8dqb1xj9xk26s1ifxi7.jpg "MacRuby Demo App - Chapter 2")
 
