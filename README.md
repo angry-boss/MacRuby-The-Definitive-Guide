@@ -17,13 +17,13 @@ Examples are organized by chapters so you can follow along.
 
 * [Demo App example](http://github.com/mattetti/MacRuby--The-Definitive-Guide/raw/master/chapter_2/demo_app.zip) Source code for the demo app.
 
-![Screenshot of the MacRuby demo app in Chapter 2](https://img.skitch.com/20101217-gsx1f85swynag75eq9auid6u83.png "MacRuby Demo App - Chapter 2")
+![Screenshot of the MacRuby demo app in Chapter 2](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_2/demo-app.png)
 
 ## Chapter 5
 
-* Drawing: [rectangle v1](http://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_5/draw_rect_v1.rb), [rectangle v2](https://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_5/draw_rect_v2.rb), [failed rectangle drawing](https://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_5/failed_draw_rect.rb), [image](https://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_5/image.rb) 
-* [Bindings Example](http://github.com/mattetti/MacRuby--The-Definitive-Guide/tree/master/chapter_5/bindingsExample)
-* [Events Example](http://github.com/mattetti/MacRuby--The-Definitive-Guide/tree/master/chapter_5/events/events)
+* Drawing: [rectangle v1](http://github.com/mattetti/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v1.rb), [rectangle v2](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v2.rb), [failed rectangle drawing](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/failed_draw_rect.rb), [image](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/image.rb) 
+* [Bindings Example](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/bindingsExample)
+* [Events Example](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/events/events)
 
 ## Chapter 7
 
