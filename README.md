@@ -10,7 +10,7 @@ Examples are organized by chapters so you can follow along.
 
 * [hello_world.rb](http://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_1/hello_world.rb) Hello World script example.
 
-![Screenshot of the MacRuby Hello World in Chapter 1](https://img.skitch.com/20101217-e5rjxtrciarncgk7ec2ip7rgpp.png "MacRuby Hello World - Chapter 1")
+![Screenshot of the MacRuby Hello World in Chapter 1](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_1/hello_world.png)
 
 
 ## Chapter 2
