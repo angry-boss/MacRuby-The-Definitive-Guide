@@ -21,7 +21,7 @@ Examples are organized by chapters so you can follow along.
 
 ## Chapter 5
 
-* Drawing: [rectangle v1](http://github.com/mattetti/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v1.rb), [rectangle v2](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v2.rb), [failed rectangle drawing](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/failed_draw_rect.rb), [image](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/image.rb) 
+* Drawing: [rectangle v1](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v1.rb), [rectangle v2](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/draw_rect_v2.rb), [failed rectangle drawing](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/failed_draw_rect.rb), [image](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/image.rb) 
 * [Bindings Example](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/bindingsExample)
 * [Events Example](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_5/events/events)
 
