@@ -27,26 +27,24 @@ Examples are organized by chapters so you can follow along.
 
 ## Chapter 7
 
-* [Core Data Example app](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/raw/master/chapter_7/CoreDataExample.zip) Source code for the Core Data demo app.
-
-![Screenshot of the MacRuby Core Data demo app in Chapter 7](https://img.skitch.com/20110110-c6q3dxf8dqb1xj9xk26s1ifxi7.jpg "MacRuby Demo App - Chapter 2")
+* [Core Data Example app](https://github.com/angry-boss/MacRuby-The-Definitive-Guide/blob/master/chapter_7/CoreDataExample.zip?raw=true) Source code for the Core Data demo app
 
 
 ## Chapter 8
 
-* [selectors.rb](http://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_8/selectors.rb) MacRuby selector examples.
-* [closures.rb](http://github.com/mattetti/MacRuby--The-Definitive-Guide/blob/master/chapter_8/closures.rb) Closure/block/iterator examples.
+* [selectors.rb](http://github.com/angry-boss/MacRuby--The-Definitive-Guide/blob/master/chapter_8/selectors.rb) MacRuby selector examples.
+* [closures.rb](http://github.com/angry-boss/MacRuby--The-Definitive-Guide/blob/master/chapter_8/closures.rb) Closure/block/iterator examples.
 
 
 ## Chapter 9
 
-* [Twitter Contact Importer App](http://github.com/mattetti/MacRuby--The-Definitive-Guide/tree/master/chapter_9/TwitterContactImporter)
+* [Twitter Contact Importer App](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/tree/master/chapter_9/TwitterContactImporter)
 
 
 ## Chapter 10
 
-* [Around me App](http://github.com/mattetti/MacRuby--The-Definitive-Guide/tree/master/chapter_10/AroundMe)
+* [Around me App](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/tree/master/chapter_10/AroundMe)
 
 ## Chapter 11
 
-* [Embedding MacRuby](http://github.com/mattetti/MacRuby--The-Definitive-Guide/tree/master/chapter_11/EmbeddedMacRuby/)
+* [Embedding MacRuby](http://github.com/angry-boss/MacRuby-The-Definitive-Guide/tree/master/chapter_11/EmbeddedMacRuby/)
